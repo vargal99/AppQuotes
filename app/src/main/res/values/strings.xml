@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">App Quotes</string>
+    <string name="quote1">A technológia önmagában nem fogja nekünk megtanítani azt, hogyan is kellene azt használnunk.</string>
+    <string name="quote2">Tudni, hogy amit tudunk, azt tudjuk, ám amit nem tudunk, azt nem tudjuk; ez az igazi tudás.</string>
+    <string name="quote3">Gondolkodás nélkül tanulni: felesleges vesződés; tanulás nélkül gondolkodni: veszedelmes.</string>
+    <string name="quote4">Ha az elmét egyszer kitágította egy új ötlet, akkor az már soha nem fogja visszanyerni az eredeti méretét.</string>
+    <string name="quote5">Még soha nem találkoztam olyan emberrel, aki olyan tudatlan lett volna, hogy semmit nem tudtam volna tőle tanulni.</string>
+    <string name="quote6">A világon semmi nincs oly veszélyes, mint a nyílt tudatlanság és a lelkiismeretes ostobaság.</string>
+    <string name="quote7">A csodálkozás az első lépés a megismeréshez.</string>
+    <string name="quote8">Minél többen tanulsz, annál inkább ráébredsz, hogy milyen sok mindent nem tudsz.</string>
+    <string name="quote9">Ugyan mi értelme van a nagy tudásnak, ha megtartod magadnak?</string>
+</resources>
